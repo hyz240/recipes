@@ -2,7 +2,7 @@
 
 A recipes app in a microservices architecture.
 
-[![](https://github.com/hyz240/recipes/blob/master/architecture.png)
+![](https://github.com/hyz240/recipes/blob/master/architecture.png)
 
 ```
 $ docker-compose build
